@@ -42,7 +42,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-  git clone https://github.com/yourusername/todo-app.git
+  git clone https://github.com/yaalpha/todo-app.git
   cd todo-app
 ```
 2. Установите зависимости:
